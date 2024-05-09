@@ -1,0 +1,4 @@
+#Thu May 09 23:29:04 IST 2024
+base.0=D\:\\New folder\\country_explorer_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
